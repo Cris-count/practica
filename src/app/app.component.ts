@@ -8,5 +8,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'Practica';
+  title = 'Practica cristian';
+  subtitulo = 'Mi primer proyecto con Angular';
+  parrafo = 'Este es un proyecto de prueba para aprender Angular.';
 }
