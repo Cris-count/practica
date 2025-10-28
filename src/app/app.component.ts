@@ -9,6 +9,4 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'Practica cristian';
-  subtitulo = 'Mi primer proyecto con Angular';
-  parrafo = 'Este es un proyecto de prueba para aprender Angular.';
 }
